@@ -1,0 +1,8 @@
+# You can add, remove and edit adresses as needed
+local: Civitas 3 andar
+
+# Echos the printer name to the user
+Printer_Names: 
+BRRPOIMPPB01 BRRPOIMPPB02 BRRPOIMPPB04 BRRPOIMPPB11 BRRPOIMPPB12
+
+

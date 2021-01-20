@@ -1,0 +1,4 @@
+# You can add, remove and edit adresses as needed
+local: Civitas 3 andar
+Adress:
+prdopimpap01\BRRPOIMPPB01 prdopimpap01\BRRPOIMPPB02 prdopimpap01\BRRPOIMPPB04 prdopimpap01\BRRPOIMPPB11 prdopimpap01\BRRPOIMPPB12
