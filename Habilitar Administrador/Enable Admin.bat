@@ -106,5 +106,5 @@ net user %user_del% /delete
 	) else (
 		echo This user does not exist, make sure you typed the correct user name.
 		Pause
-	exit 
+		exit 
 	)
